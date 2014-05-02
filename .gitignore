@@ -1,1 +1,13 @@
 .project
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+Berksfile.lock
+*.tar.gz
+
+# Bundler
+bin/*
+.bundle/*
